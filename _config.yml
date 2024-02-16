@@ -1,16 +1,5 @@
-###########################################################
-### Welcome to Beautiful Jekyll!
-### This config file is meant for settings that affect your entire website. When you first
-### set up your website you should go through all these settings and edit them, but after
-### the initial set up you won't need to come back to this file often.
-###########################################################
-
-############################
-# --- Required options --- #
-############################
-
 # Name of website
-title: Thổ dân miền viễn đảo
+title: Dân miền viễn đảo
 
 # Your name to show in the footer
 author: Chí Trung HÀ
@@ -24,7 +13,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://trunghachi.github.io/"
 
 ################
 # --- Logo --- #
@@ -32,10 +21,10 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+# avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+# round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -46,15 +35,12 @@ round-avatar: true
 # --- Footer social media links --- #
 #####################################
 
-# Select the social network links that you want to show in the footer.
-# You can change the order that they show up on the page by changing the order here.
-# Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "hct2009@yahoo.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: https://www.facebook.com/trung.ha.756/
   github: https://github.com/trunghachi
-  twitter: daattali
+#  twitter: daattali
 #  patreon: DeanAttali
   youtube: https://www.youtube.com/channel/UC-rCggNCCnS9YgGmwJzkeEA
 #  medium: yourname
@@ -94,7 +80,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
-  vk: false
+#  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -121,7 +107,7 @@ edit_page_button: true
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
 # See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
-navbar-var-length: false
+navbar-var-length: true
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
