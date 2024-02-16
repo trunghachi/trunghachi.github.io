@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Thổ dân miền viễn đảo
 
 # Your name to show in the footer
-author: Some Person
+author: Chí Trung HÀ
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -50,16 +50,16 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "hct2009@yahoo.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
+  facebook: https://www.facebook.com/trung.ha.756/
+  github: https://github.com/trunghachi
   twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
+#  patreon: DeanAttali
+  youtube: https://www.youtube.com/channel/UC-rCggNCCnS9YgGmwJzkeEA
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: https://www.linkedin.com/in/hachitrung/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
