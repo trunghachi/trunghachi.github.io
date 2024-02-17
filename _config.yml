@@ -29,7 +29,10 @@ navbar-links:
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
-
+# Mặc định baseurl đang thiết lập giá trị "" có nghĩa là website sẽ truy cập từ tên miền 
+# ví dụ http://yourdomain.com/. Tuy nhiên nếu muốn website này truy cập với địa chỉ cơ sở 
+# ví dụ http://yourdomain.com/jekyll-example thì thiết lập baseurl: "/jekyll-example".
+# Sau khi thay đổi, chạy lại lệnh jekyll serve từ giờ trang của bạn sẽ truy cập bắt đầu từ http://yourdomain.com/jekyll-example
 
 #####################################
 # --- Footer social media links --- #
