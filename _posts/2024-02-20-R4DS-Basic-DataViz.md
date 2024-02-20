@@ -12,7 +12,7 @@ author: Chí Trung HÀ
 
 ## Data Visualisation
 
-Learn from [R for Data Science - Data visualisation](https://r4ds.had.co.nz/data-visualisation.html) hoặc [R for Data Science]()
+Learn from [R for Data Science - Data visualisation](https://r4ds.had.co.nz/data-visualisation.html) hoặc [R for Data Science (2e)](https://r4ds.hadley.nz/data-visualize)
 
 
 You can learn more examples from [ggplot2](https://ggplot2.tidyverse.org/)
