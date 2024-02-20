@@ -1,10 +1,21 @@
+---
+layout: post
+title: Tự học ngôn ngữ R trong 7 ngày
+subtitle: Day 2. Trực quan hóa dữ liệu với ggplot
+tags: [R, Data Science, Data Visualisation]
+comments: true
+categories: R DataScience DataViz
+author: Chí Trung HÀ
+---
+
 # R for Data Science
 
 ## Data Visualisation
 
-Learnt from [R for Data Science - Data visualisation](https://r4ds.had.co.nz/data-visualisation.html)
+Learn from [R for Data Science - Data visualisation](https://r4ds.had.co.nz/data-visualisation.html) hoặc [R for Data Science]()
 
-You can learn more example from [ggplot2](https://ggplot2.tidyverse.org/)
+
+You can learn more examples from [ggplot2](https://ggplot2.tidyverse.org/)
 
 ### Prerequisites
 
