@@ -187,7 +187,7 @@ ggplot(data = mpg) +                                #  creates an empty graph, u
 
 
     
-![png](R4DS_Basic_DataViz_files/R4DS_Basic_DataViz_7_1.png)
+![png](/R4DS_Basic_DataViz_files/R4DS_Basic_DataViz_7_1.png)
     
 
 
@@ -238,7 +238,7 @@ ggplot(data = mpg) +
 
 
     
-![png](R4DS_Basic_DataViz_files/R4DS_Basic_DataViz_11_0.png)
+![png](/R4DS_Basic_DataViz_files/R4DS_Basic_DataViz_11_0.png)
     
 
 
@@ -453,7 +453,7 @@ options(repr.plot.width = 10, repr.plot.height = 5)
 
 
     
-![png](R4DS_Basic_DataViz_files/R4DS_Basic_DataViz_14_0.png)
+![png](/R4DS_Basic_DataViz_files/R4DS_Basic_DataViz_14_0.png)
     
 
 
@@ -470,7 +470,7 @@ ggplot(data = mpg) +
 
 
     
-![png](R4DS_Basic_DataViz_files/R4DS_Basic_DataViz_16_0.png)
+![png](/R4DS_Basic_DataViz_files/R4DS_Basic_DataViz_16_0.png)
     
 
 
@@ -485,7 +485,7 @@ ggplot(data = mpg) +
 
 
     
-![png](R4DS_Basic_DataViz_files/R4DS_Basic_DataViz_18_0.png)
+![png](/R4DS_Basic_DataViz_files/R4DS_Basic_DataViz_18_0.png)
     
 
 
