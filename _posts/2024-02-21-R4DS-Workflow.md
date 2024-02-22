@@ -3201,7 +3201,7 @@ batters |>
 
 
     
-![png](R4DS_Workflow_files/R4DS_Workflow_109_1.png)
+![png](/assets/img/R4DS_Workflow_files/R4DS_Workflow_109_1.png)
     
 
 
