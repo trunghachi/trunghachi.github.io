@@ -1,3 +1,13 @@
+---
+layout: post
+title: Tự học ngôn ngữ R trong 7 ngày
+subtitle: Day 3. Data Transformation
+tags: [R, Data Science, Data Transformation]
+comments: true
+categories: R DataScience DataAnalysis
+author: Chí Trung HÀ
+---
+
 # R for Data Science (2e)
 
 # Day 3. Data Transformation
