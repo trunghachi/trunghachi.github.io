@@ -1,4 +1,12 @@
-# Chapter 9. R for Data Science - Layers
+---
+layout: post
+title: R for Data Science
+subtitle: Day 4. Layers
+tags: [R, Data Science, Data Visualisation, DataViz]
+comments: true
+categories: R DataScience DataViz
+author: Chí Trung HÀ
+---
 
 ## Introduction
 
