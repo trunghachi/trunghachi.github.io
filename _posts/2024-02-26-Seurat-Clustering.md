@@ -192,7 +192,7 @@ options(repr.plot.width = 10, repr.plot.height = 5)
 
 
     
-![png](Seurat-Clustering_files/Seurat-Clustering_12_1.png)
+![png](/assets/img/Seurat-Clustering_files/Seurat-Clustering_12_1.png)
     
 
 
@@ -208,7 +208,7 @@ plot1 + plot2
 
 
     
-![png](Seurat-Clustering_files/Seurat-Clustering_13_0.png)
+![png](/assets/img/Seurat-Clustering_files/Seurat-Clustering_13_0.png)
     
 
 
@@ -269,7 +269,7 @@ plot1 + plot2
 
 
     
-![png](Seurat-Clustering_files/Seurat-Clustering_19_1.png)
+![png](/assets/img/Seurat-Clustering_files/Seurat-Clustering_19_1.png)
     
 
 
@@ -382,7 +382,7 @@ VizDimLoadings(pbmc, dims = 1:2, reduction = "pca")
 
 
     
-![png](Seurat-Clustering_files/Seurat-Clustering_27_0.png)
+![png](/assets/img/Seurat-Clustering_files/Seurat-Clustering_27_0.png)
     
 
 
@@ -393,7 +393,7 @@ DimPlot(pbmc, reduction = "pca") + NoLegend()
 
 
     
-![png](Seurat-Clustering_files/Seurat-Clustering_28_0.png)
+![png](/assets/img/Seurat-Clustering_files/Seurat-Clustering_28_0.png)
     
 
 
@@ -404,7 +404,7 @@ DimHeatmap(pbmc, dims = 1, cells = 500, balanced = TRUE)
 
 
     
-![png](Seurat-Clustering_files/Seurat-Clustering_29_0.png)
+![png](/assets/img/Seurat-Clustering_files/Seurat-Clustering_29_0.png)
     
 
 
@@ -417,7 +417,7 @@ options(repr.plot.width = 30, repr.plot.height = 50)
 
 
     
-![png](Seurat-Clustering_files/Seurat-Clustering_30_0.png)
+![png](/assets/img/Seurat-Clustering_files/Seurat-Clustering_30_0.png)
     
 
 
@@ -440,7 +440,7 @@ ElbowPlot(pbmc)
 
 
     
-![png](Seurat-Clustering_files/Seurat-Clustering_32_0.png)
+![png](/assets/img/Seurat-Clustering_files/Seurat-Clustering_32_0.png)
     
 
 
@@ -600,7 +600,7 @@ DimPlot(pbmc, reduction = "umap")
 
 
     
-![png](Seurat-Clustering_files/Seurat-Clustering_38_0.png)
+![png](/assets/img/Seurat-Clustering_files/Seurat-Clustering_38_0.png)
     
 
 
@@ -773,7 +773,7 @@ VlnPlot(pbmc, features = c("MS4A1", "CD79A"))
 
 
     
-![png](Seurat-Clustering_files/Seurat-Clustering_44_0.png)
+![png](/assets/img/Seurat-Clustering_files/Seurat-Clustering_44_0.png)
     
 
 
@@ -785,7 +785,7 @@ VlnPlot(pbmc, features = c("NKG7", "PF4"), slot = "counts", log = TRUE)
 
 
     
-![png](Seurat-Clustering_files/Seurat-Clustering_45_0.png)
+![png](/assets/img/Seurat-Clustering_files/Seurat-Clustering_45_0.png)
     
 
 
@@ -797,7 +797,7 @@ FeaturePlot(pbmc, features = c("MS4A1", "GNLY", "CD3E", "CD14", "FCER1A", "FCGR3
 
 
     
-![png](Seurat-Clustering_files/Seurat-Clustering_46_0.png)
+![png](/assets/img/Seurat-Clustering_files/Seurat-Clustering_46_0.png)
     
 
 
@@ -815,7 +815,7 @@ DoHeatmap(pbmc, features = top10$gene) + NoLegend()
 
 
     
-![png](Seurat-Clustering_files/Seurat-Clustering_48_0.png)
+![png](/assets/img/Seurat-Clustering_files/Seurat-Clustering_48_0.png)
     
 
 
@@ -845,7 +845,7 @@ DimPlot(pbmc, reduction = "umap", label = TRUE, pt.size = 0.5) + NoLegend()
 
 
     
-![png](Seurat-Clustering_files/Seurat-Clustering_50_0.png)
+![png](/assets/img/Seurat-Clustering_files/Seurat-Clustering_50_0.png)
     
 
 
