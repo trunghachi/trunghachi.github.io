@@ -1,4 +1,12 @@
-# Seurat - Guided Clustering Tutorial
+---
+layout: post
+title: Seurat - Guided Clustering Tutorial
+subtitle: Day 5. Single-Cells data
+tags: [R, Data Science, Data Visualisation, Single-Cell, Genomics]
+comments: true
+categories: R DataScience Genomics Single-Cell
+author: Chí Trung HÀ
+---
 
 ## Setup the Seurat Object
 For this tutorial, we will be analyzing the a dataset of Peripheral Blood Mononuclear Cells (PBMC) freely available from 10X Genomics. There are 2,700 single cells that were sequenced on the Illumina NextSeq 500. The raw data can be found [here](https://cf.10xgenomics.com/samples/cell/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz).
