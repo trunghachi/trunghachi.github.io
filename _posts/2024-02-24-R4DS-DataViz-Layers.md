@@ -144,7 +144,7 @@ grid.arrange(p1, p2, ncol=2)
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_4_1.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_4_1.png)
     
 
 
@@ -172,7 +172,7 @@ grid.arrange(p1, p2, ncol=2)
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_5_1.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_5_1.png)
     
 
 
@@ -184,7 +184,7 @@ ggplot(mpg, aes(x = displ, y = hwy)) +
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_6_0.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_6_0.png)
     
 
 
@@ -210,7 +210,7 @@ ggplot(mpg) +
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_10_0.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_10_0.png)
     
 
 
@@ -250,7 +250,7 @@ grid.arrange(p1, p2, ncol=2)
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_16_1.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_16_1.png)
     
 
 
@@ -273,7 +273,7 @@ grid.arrange(p1, p2, ncol=2)
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_17_1.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_17_1.png)
     
 
 
@@ -291,7 +291,7 @@ options(repr.plot.width = 10, repr.plot.height = 5)
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_18_1.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_18_1.png)
     
 
 
@@ -320,7 +320,7 @@ grid.arrange(p1, p2, p3, ncol=3)
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_19_1.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_19_1.png)
     
 
 
@@ -344,7 +344,7 @@ options(repr.plot.width = 10, repr.plot.height = 5)
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_20_1.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_20_1.png)
     
 
 
@@ -377,7 +377,7 @@ ggplot(mpg, aes(x = displ, y = hwy)) +
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_21_0.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_21_0.png)
     
 
 
@@ -399,7 +399,7 @@ ggplot(mpg, aes(x = displ, y = hwy)) +
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_24_1.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_24_1.png)
     
 
 
@@ -445,7 +445,7 @@ grid.arrange(p1, p2, p3, p4, p5, p6, ncol=2, nrow = 3)
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_27_1.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_27_1.png)
     
 
 
@@ -464,7 +464,7 @@ options(repr.plot.width = 10, repr.plot.height = 5)
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_29_0.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_29_0.png)
     
 
 
@@ -477,7 +477,7 @@ ggplot(mpg, aes(x = displ, y = hwy)) +
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_30_0.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_30_0.png)
     
 
 
@@ -490,7 +490,7 @@ ggplot(mpg, aes(x = displ, y = hwy)) +
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_31_0.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_31_0.png)
     
 
 
@@ -508,7 +508,7 @@ ggplot(mpg) +
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_33_0.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_33_0.png)
     
 
 
@@ -528,13 +528,13 @@ ggplot(mpg) +
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_35_0.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_35_0.png)
     
 
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_35_1.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_35_1.png)
     
 
 
@@ -549,7 +549,7 @@ ggplot(mpg) +
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_37_0.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_37_0.png)
     
 
 
@@ -714,13 +714,13 @@ ggplot(mpg, aes(x = displ)) +
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_41_1.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_41_1.png)
     
 
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_41_2.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_41_2.png)
     
 
 
@@ -737,7 +737,7 @@ ggplot(mpg) +
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_43_0.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_43_0.png)
     
 
 
@@ -752,7 +752,7 @@ ggplot(diamonds, aes(x = cut)) +
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_45_0.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_45_0.png)
     
 
 
@@ -783,7 +783,7 @@ grid.arrange(p1, p2, ncol=2)
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_49_0.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_49_0.png)
     
 
 
@@ -797,7 +797,7 @@ options(repr.plot.width = 5, repr.plot.height = 5)
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_50_0.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_50_0.png)
     
 
 
@@ -820,7 +820,7 @@ grid.arrange(p1, p2, ncol=2)
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_52_0.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_52_0.png)
     
 
 
@@ -846,7 +846,7 @@ grid.arrange(p1, p2, ncol=2)
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_54_0.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_54_0.png)
     
 
 
@@ -859,7 +859,7 @@ ggplot(mpg, aes(x = displ, y = hwy)) +
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_55_0.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_55_0.png)
     
 
 
@@ -874,7 +874,7 @@ ggplot(mpg, aes(x = cty, y = hwy)) +
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_57_0.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_57_0.png)
     
 
 
@@ -893,7 +893,7 @@ grid.arrange(p1, p2, ncol=2)
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_59_0.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_59_0.png)
     
 
 
@@ -923,7 +923,7 @@ grid.arrange(p1, p2, ncol=2)
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_62_0.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_62_0.png)
     
 
 
@@ -945,7 +945,7 @@ grid.arrange(p1, p2, ncol=2)
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_63_0.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_63_0.png)
     
 
 
@@ -966,7 +966,7 @@ ggplot(data = mpg, mapping = aes(x = cty, y = hwy)) +
 
 
     
-![png](R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_65_0.png)
+![png](/assets/img/R4DS-DataViz-Layers_files/R4DS-DataViz-Layers_65_0.png)
     
 
 
