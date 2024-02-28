@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Tự học ngôn ngữ R trong 7 ngày
+title: R for Data Science
 subtitle: Day 2. Trực quan hóa dữ liệu với ggplot
 tags: [R, Data Science, Data Visualisation, DataViz]
 comments: true
 categories: R DataScience DataViz
 author: Chí Trung HÀ
 ---
-
-# R for Data Science
 
 ## Data Visualisation
 
