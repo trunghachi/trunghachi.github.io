@@ -972,7 +972,7 @@ ggplot(relig_summary, aes(x = tvhours, y = relig)) +
 
 
     
-![png](R4DS-Transform_files/R4DS-Transform_66_0.png)
+![png](/assets/img/R4DS-Transform_files/R4DS-Transform_66_0.png)
     
 
 
@@ -984,7 +984,7 @@ ggplot(relig_summary, aes(x = tvhours, y = fct_reorder(relig, tvhours))) +
 
 
     
-![png](R4DS-Transform_files/R4DS-Transform_67_0.png)
+![png](/assets/img/R4DS-Transform_files/R4DS-Transform_67_0.png)
     
 
 
@@ -1000,7 +1000,7 @@ relig_summary |>
 
 
     
-![png](R4DS-Transform_files/R4DS-Transform_68_0.png)
+![png](/assets/img/R4DS-Transform_files/R4DS-Transform_68_0.png)
     
 
 
@@ -1019,7 +1019,7 @@ ggplot(rincome_summary, aes(x = age, y = fct_reorder(rincome, age))) +
 
 
     
-![png](R4DS-Transform_files/R4DS-Transform_69_0.png)
+![png](/assets/img/R4DS-Transform_files/R4DS-Transform_69_0.png)
     
 
 
@@ -1031,7 +1031,7 @@ ggplot(rincome_summary, aes(x = age, y = fct_relevel(rincome, "Not applicable"))
 
 
     
-![png](R4DS-Transform_files/R4DS-Transform_70_0.png)
+![png](/assets/img/R4DS-Transform_files/R4DS-Transform_70_0.png)
     
 
 
@@ -1061,7 +1061,7 @@ grid.arrange(p1, p2, ncol=2)
 
 
     
-![png](R4DS-Transform_files/R4DS-Transform_71_0.png)
+![png](/assets/img/R4DS-Transform_files/R4DS-Transform_71_0.png)
     
 
 
@@ -1077,7 +1077,7 @@ gss_cat |>
 
 
     
-![png](R4DS-Transform_files/R4DS-Transform_72_0.png)
+![png](/assets/img/R4DS-Transform_files/R4DS-Transform_72_0.png)
     
 
 
@@ -1692,7 +1692,7 @@ flights_dt |>
 
 
     
-![png](R4DS-Transform_files/R4DS-Transform_96_0.png)
+![png](/assets/img/R4DS-Transform_files/R4DS-Transform_96_0.png)
     
 
 
@@ -1707,7 +1707,7 @@ flights_dt |>
 
 
     
-![png](R4DS-Transform_files/R4DS-Transform_97_0.png)
+![png](/assets/img/R4DS-Transform_files/R4DS-Transform_97_0.png)
     
 
 
@@ -1863,7 +1863,7 @@ flights_dt |>
 
 
     
-![png](R4DS-Transform_files/R4DS-Transform_107_0.png)
+![png](/assets/img/R4DS-Transform_files/R4DS-Transform_107_0.png)
     
 
 
@@ -1882,7 +1882,7 @@ flights_dt |>
 
 
     
-![png](R4DS-Transform_files/R4DS-Transform_108_0.png)
+![png](/assets/img/R4DS-Transform_files/R4DS-Transform_108_0.png)
     
 
 
@@ -1902,7 +1902,7 @@ ggplot(sched_dep, aes(x = minute, y = avg_delay)) +
 
 
     
-![png](R4DS-Transform_files/R4DS-Transform_109_0.png)
+![png](/assets/img/R4DS-Transform_files/R4DS-Transform_109_0.png)
     
 
 
@@ -1916,7 +1916,7 @@ flights_dt |>
 
 
     
-![png](R4DS-Transform_files/R4DS-Transform_110_0.png)
+![png](/assets/img/R4DS-Transform_files/R4DS-Transform_110_0.png)
     
 
 
@@ -2791,7 +2791,7 @@ grid.arrange(p1, p2, ncol=2)
 
 
     
-![png](R4DS-Transform_files/R4DS-Transform_160_0.png)
+![png](/assets/img/R4DS-Transform_files/R4DS-Transform_160_0.png)
     
 
 
@@ -4040,9 +4040,9 @@ You might want to use the size or color of the points to display the average del
 
 ## 19.4 How do joins work?
 
-![Inner join](R4DS-Transform_files/image.png){width=30%}   ![left join](R4DS-Transform_files/image-2.png){width=30%}   ![right join](R4DS-Transform_files/image-3.png){width=30%}
+![Inner join](/assets/img/R4DS-Transform_files/image.png){width=30%}   ![left join](/assets/img/R4DS-Transform_files/image-2.png){width=30%}   ![right join](/assets/img/R4DS-Transform_files/image-3.png){width=30%}
 
-![full join](R4DS-Transform_files/image-4.png){width=30%}   ![Venn diagram](R4DS-Transform_files/image-5.png){width=30%}
+![full join](/assets/img/R4DS-Transform_files/image-4.png){width=30%}   ![Venn diagram](/assets/img/R4DS-Transform_files/image-5.png){width=30%}
 
 
 ```R
@@ -4160,12 +4160,13 @@ full_join(x,y)
 
 
 ### Row matching
-![Inner join](R4DS-Transform_files/image.png){width=30%}
+![Inner join](/assets/img/R4DS-Transform_files/image.png){width=30%}
 
 one particularly dangerous case which can cause a combinatorial explosion of rows.
 
 ### Filterring joins
-![semi join](R4DS-Transform_files/image.png){width=30%}       ![anti join](R4DS-Transform_files/image-2.png){width=30%}
+![semi join](/assets/img/R4DS-Transform_files/image.png){width=30%}       ![anti join](/assets/img/R4DS-Transform_files/image-2.png){width=30%}
+
 
 * In a semi-join it only matters that there is a match; otherwise values in y don’t affect the output.
 * An anti-join is the inverse of a semi-join, dropping rows from x that have a match in y.
@@ -4265,7 +4266,7 @@ inner_join(y, join_by(key >= key), keep = TRUE)
 
 
 
-![Cross join](R4DS-Transform_files/image.png){width=30%} ![Inequality join](R4DS-Transform_files/image-2.png){width=30%} ![Rolling join](R4DS-Transform_files/image-3.png){width=30%} 
+![Cross join](/assets/img/R4DS-Transform_files/image.png){width=30%} ![Inequality join](/assets/img/R4DS-Transform_files/image-2.png){width=30%} ![Rolling join](/assets/img/R4DS-Transform_files/image-3.png){width=30%} 
 
 
 ```R
