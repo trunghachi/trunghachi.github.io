@@ -1,3 +1,14 @@
+---
+layout: post
+title: R4DS - Data transformation
+subtitle: Day 6. Logical Vectors, Numbers, Strings, RE, Factors, Date and Times, Missing Values and Joins
+tags: [R, Data Science, Data Transformation]
+comments: true
+categories: R DataScience
+author: Chí Trung HÀ
+---
+
+
 # C12. Logical Vectors
 
 
