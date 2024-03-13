@@ -8,6 +8,7 @@ categories: R DataScience
 author: Chí Trung HÀ
 ---
 
+
 # C12. Logical Vectors
 
 ```R
