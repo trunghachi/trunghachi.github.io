@@ -1,16 +1,20 @@
 <nav class="side-menu">
   <ul>
-    <li {% if page.url == "/" %}class="active"{% endif %}>
+    <li>
       <a href="/">Home</a>
     </li>
-    <li {% if page.url contains "/R4DS" %}class="active"{% endif %}>
+    <li>
       <a href="/about/">Tự học R</a>
     </li>
-    <li {% if page.url contains "/DLPytorch" %}class="active"{% endif %}>
+    <li>
       <a href="/blog/">Học máy cho người mới bắt đầu</a>
     </li>
-    <li {% if page.url contains "/AIFromZero" %}class="active"{% endif %}>
+    <li>
       <a href="/contact/">AI From Zero</a>
     </li>
   </ul>
 </nav>
+<! -- {% if page.url == "/" %}class="active"{% endif %} -->
+<! -- {% if page.url contains "/R4DS" %}class="active"{% endif %} -->
+<! -- {% if page.url contains "/DLPytorch" %}class="active"{% endif %} -->
+<! --  {% if page.url contains "/AIFromZero" %}class="active"{% endif %} -->
