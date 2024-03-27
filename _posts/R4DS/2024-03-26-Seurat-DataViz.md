@@ -2,11 +2,12 @@
 layout: post
 title: Data visualization methods in Seurat
 subtitle: Day 7. Data visualization with Seurat
-tags: [R, Data Science, Data Visualisation, Genomics]
+tags: [R, Data Science, Data Visualisation]
 comments: true
 categories: R DataScience DataViz
 author: Chí Trung HÀ
 ---
+
 
 # Data visualization methods in Seurat
 
