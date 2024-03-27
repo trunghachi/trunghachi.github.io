@@ -1,7 +1,7 @@
 ---
 layout: post
-title: R4DS - Data transformation
-subtitle: Day 6. Data types
+title: R for Data Science
+subtitle: Day 6. Data transformation
 tags: [R, Data Science, Data Transformation]
 comments: true
 categories: R DataScience
