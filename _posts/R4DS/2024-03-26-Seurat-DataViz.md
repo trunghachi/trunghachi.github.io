@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data visualization methods in Seurat
+title: Seurat
 subtitle: Day 7. Data visualization with Seurat
 tags: [R, Data Science, Data Visualisation]
 comments: true
