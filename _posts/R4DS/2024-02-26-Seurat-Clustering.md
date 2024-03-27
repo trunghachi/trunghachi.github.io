@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Seurat - Guided Clustering Tutorial
-subtitle: Day 5. Single-Cells data
+title: Seurat
+subtitle: Day 5. Guided Single-Cells data Clustering Tutorial
 tags: [R, Data Science, Data Visualisation, Single-Cell, Genomics]
 comments: true
 categories: R DataScience Genomics Single-Cell
