@@ -8,7 +8,6 @@ categories: R DataScience DataViz
 author: Chí Trung HÀ
 ---
 
-
 # Data visualization methods in Seurat
 
 ```R
